@@ -1,22 +1,30 @@
 ![I'm Developer HTML, CSS, javaScript, jQuery, PHP, WordPress.]
 ![facebook-benner](https://github.com/khabbab50/khabbab50/assets/134792152/df6ddba5-db7f-4c4f-a895-5e3537b51d9f)
-### Hi there 👋, MD KHABBAB HOSSEN
-#### I'm Developer HTML, CSS, javaScript, jQuery, PHP, WordPress.
+
+# 💫 About Me:
+👨 I’m currently working on website development. <br>👯 I’m looking to collaborate on website development and testing.<br>🤝 I’m looking for help with developing and issue fixing.<br>🌱 I’m currently learning javaScript, react.js, Tailwind CSS.<br>💬 Ask me about web site design and development.<br>⚡ Fun fact- i am lazy but smart .
 
 
-I have 3 years of working experience to develop functional WordPress websites using Elementor, Divi Builder, and WPBakery page builder.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khabbab51) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@virtual_gibon) 
 
-Skills: HTML /  CSS / javaScript / jQuery / PHP / WordPress.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khabbab50&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khabbab50&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khabbab50&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on Freelancher.com 
-- 🌱 I’m currently learning javaScript 
-- 👯 I’m looking to collaborate on GutHub 
-- 💬 Ask me about Website Design and Development. 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khabbab50&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/khabbab50)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/khabbab50/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/khabbab51/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://github.com/khabbab50)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC8-9bZdePf0HS1Rk87Ng5hg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/khabbab50)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khabbab50&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
+[![](https://visitcount.itsvg.in/api?id=khabbab50&icon=1&color=10)](https://visitcount.itsvg.in)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/khabbab50)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
