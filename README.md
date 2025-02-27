@@ -1,5 +1,4 @@
-![I'm Developer HTML, CSS, javaScript, jQuery, PHP, WordPress.]
-![facebook-benner](https://github.com/khabbab50/khabbab50/assets/134792152/df6ddba5-db7f-4c4f-a895-5e3537b51d9f)
+![gitHub banner](https://github.com/khabbab50/khabbab50/assets/134792152/df6ddba5-db7f-4c4f-a895-5e3537b51d9f)
 
 # 💫 About Me:
 👨 I’m currently working on website development. <br>👯 I’m looking to collaborate on website development and testing.<br>🤝 I’m looking for help with developing and issue fixing.<br>🌱 I’m currently learning javaScript, react.js, Tailwind CSS.<br>💬 Ask me about web site design and development.<br>⚡ Fun fact- i am lazy but smart .
